@@ -1,0 +1,59 @@
+{
+    "produk":
+    [
+        {
+            "kodeproduk" : "PRD001",
+            "namaproduk" : "Kopi Susu Moca",
+            "harga"         : 1500,
+            "gambar"     : "kopiabcmoca.jpg"
+        },
+        {
+            "kodeproduk" : "PRD002",
+            "namaproduk" : "Indomie",
+            "harga"         : 2500,
+            "gambar"     : "indomie.jpg"
+        },
+        {
+            "kodeproduk" : "PRD003",
+            "namaproduk" : "Sari Roti",
+            "harga"         : 3000,
+            "gambar"     : "sariroti.jpg"
+        },
+        {
+            "kodeproduk" : "PRD004",
+            "namaproduk" : "Aqua 600 ml",
+            "harga"         : 3500,
+            "gambar"     : "aqua600ml.jpg"
+        },
+        {
+            "kodeproduk" : "PRD005",
+            "namaproduk" : "Teh Sariwangi",
+            "harga"         : 12000,
+            "gambar"     : "sariwangi.jpg"
+        },
+        {
+            "kodeproduk" : "PRD006",
+            "namaproduk" : "Tango",
+            "harga"         : 5000,
+            "gambar"     : "tango.jpg"
+        },
+        {
+            "kodeproduk" : "PRD007",
+            "namaproduk" : "Ice Cream Walls",
+            "harga"         : 9000,
+            "gambar"     : "icecream.jpg"
+        },
+        {
+            "kodeproduk" : "PRD008",
+            "namaproduk" : "Buavita",
+            "harga"         : 7500,
+            "gambar"     : "buavita.jpg"
+        },
+        {
+            "kodeproduk" : "PRD009",
+            "namaproduk" : "Mie Kremez Enak",
+            "harga"         : 2500,
+            "gambar"     : "miekremes.jpg"
+        }
+    ]
+}
